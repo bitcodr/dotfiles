@@ -165,7 +165,7 @@ go_metalinter_enabeld = ['deadcode', 'errcheck', 'gosimple', 'govet', 'staticche
   
 
 [[layers]]
-  name = "denite"
+  name = "fzf"
 
 [[layers]]
   name = "lang#typescript"
@@ -212,9 +212,6 @@ filetypes = [
 
 [[layers]]
   name = "colorscheme"
-
-[[layers]]
-  name = "denite"
 
 [[custom_plugins]]
   name = "haya14busa/vim-gtrans"
