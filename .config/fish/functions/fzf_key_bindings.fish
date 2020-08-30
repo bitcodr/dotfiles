@@ -1,0 +1,1 @@
+/home/bitcodr/.fzf/shell/key-bindings.fish
